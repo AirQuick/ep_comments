@@ -348,6 +348,10 @@ time{
   z-index: 999;
 }
 
+.comment-options.hidden {
+  display: none;
+}
+
 .comment-delete, .comment-edit {
   display: block;
   font-weight: bold;
